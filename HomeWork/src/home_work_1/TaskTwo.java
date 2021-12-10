@@ -23,7 +23,6 @@ public class TaskTwo {
         //System.out.println((a + d > e ? g >= g : f * b >> b++) / --c); // ошибка компиляции, булевый результат сравнения >= не может быть разделен на число
         System.out.println(n - b > h && m * m <= o); // выводим на экран результат сравнения выражений: 4>3 = true, 144 < 119 = false; true && false = false
         System.out.println(true && false); //  true && false = false
-        System.out.println(b++);
     }
 
 }
