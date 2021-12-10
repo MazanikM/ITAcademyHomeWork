@@ -36,9 +36,9 @@ public class TaskOne {
         System.out.println(a2 <<= 1); // 11010110 <<= 10101100
         System.out.println(b2 <<= 1); // 11110001 <<= 11100010
 
-        double a3 = 42.5; //
+        double a3 = 42.5; // побитовые операции применяются с целыми числами
 
-        //System.out.println(~a3); //
+        //System.out.println(~a3); // bad operand type double for unary operator '~'
         //System.out.println(a3 <<= 1); // Operator '<<' cannot be applied to 'double', 'int'
     }
 }
