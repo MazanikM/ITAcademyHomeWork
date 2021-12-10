@@ -2,7 +2,7 @@ package home_work_1;
 import java.util.Scanner;
 import java.util.Objects;
 
-public class HwPart_5_Class_ElseIf {
+public class TaskFiveClassElseIf {
     public static void main(String[] args) {
         Scanner scaner = new Scanner(System.in);
         System.out.print("Введите имя ");

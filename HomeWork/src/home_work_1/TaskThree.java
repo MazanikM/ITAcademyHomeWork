@@ -1,6 +1,6 @@
 package home_work_1;
 
-public class HwPart_3 {
+public class TaskThree {
 
     double PI; // константа, переменная Пи
 

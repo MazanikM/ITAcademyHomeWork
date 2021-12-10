@@ -3,7 +3,7 @@ package home_work_1;
 import java.util.Scanner;
 import java.util.Objects;
 
-public class HwPart_5_Class_If {
+public class TaskFiveClassIf {
     public static void main(String[] args) {
 
         Scanner scaner = new Scanner(System.in);

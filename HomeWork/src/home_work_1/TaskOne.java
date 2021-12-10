@@ -1,6 +1,6 @@
 package home_work_1;
 
-public class HwPart_1 {
+public class TaskOne {
     public static void main(String[] args) {
 
         byte a = 42; // 00101010

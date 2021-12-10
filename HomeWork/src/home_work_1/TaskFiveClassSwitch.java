@@ -2,7 +2,7 @@ package home_work_1;
 
 import java.util.Scanner;
 
-public class HwPart_5_Class_Switch {
+public class TaskFiveClassSwitch {
     public static void main(String[] args) {
         Scanner scaner = new Scanner(System.in);
         System.out.print("Введите имя ");

@@ -1,6 +1,6 @@
 package home_work_1;
 
-public class HwPart_2 {
+public class TaskTwo {
     public static void main(String[] args) {
         int a = 5, b = 2, c = 8, d = 7, e = 20, f = 22, g = 68, h = 3, m = 12;
         boolean tr = true;

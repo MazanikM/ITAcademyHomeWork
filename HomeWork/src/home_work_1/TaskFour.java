@@ -1,6 +1,6 @@
 package home_work_1;
 
-public class HwPart_4 {
+public class TaskFour {
 
     static boolean SleepIn(boolean weekday, boolean vacation) {
         if (weekday == true || vacation == true) {
