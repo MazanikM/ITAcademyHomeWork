@@ -1,0 +1,22 @@
+Index: ClassWork/src/work1/Test.java
+===================================================================
+diff --git a/ClassWork/src/work1/Test.java b/ClassWork/src/work1/Test.java
+deleted file mode 100644
+--- a/ClassWork/src/work1/Test.java	(date 0)
++++ /dev/null	(date 0)
+@@ -1,15 +0,0 @@
+-package work1;
+-
+-public class Test {
+-    public static void main(String[] args) {
+-        foo(false, true);
+-        foo(true, true);
+-        foo(true, false);
+-        foo(false, true);
+-    }
+-
+-    pubString foo(){
+-        return "foo";
+-    }
+-
+-}
